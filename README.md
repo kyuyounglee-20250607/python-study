@@ -11,6 +11,6 @@
 두번째줄
 
 ```
-텍스트박스
-입력하는데로 보임
+def myfunction(data):
+  return data
 ```
