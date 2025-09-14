@@ -10,7 +10,7 @@
 
 두번째줄
 
-```
+```python
 def myfunction(data):
   return data
 ```
